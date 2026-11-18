@@ -40,4 +40,4 @@ Prototype. The build passes with `npm install`. `npm ci` currently fails because
 
 ## License
 
-No license is declared yet.
+MIT. See [LICENSE](LICENSE).
